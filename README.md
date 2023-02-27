@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 aligh="center">Hi there 👋, I am Jiří Černák.</h1>
+<h3 aligh="center">I am a student studying robotics, programming and computer hardware from Czech Republic.</h3>
 
 <!--
 **SlightlySaltedTeriyaki/SlightlySaltedTeriyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
