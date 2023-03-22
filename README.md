@@ -2,8 +2,9 @@
 <h3 align="center">I am a student studying robotics, programming and computer hardware from Czech Republic.</h3>
 
 #
-
-![funny-programmer-code-works-why-meme](https://user-images.githubusercontent.com/92692676/221604988-a9c88aa7-c780-4fe2-8bcd-9a2b06a39e77.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/92692676/221604988-a9c88aa7-c780-4fe2-8bcd-9a2b06a39e77.png" alt="funny-programmer-code-works-why-meme"/>
+</p>
 
 <!--
 **SlightlySaltedTeriyaki/SlightlySaltedTeriyaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
