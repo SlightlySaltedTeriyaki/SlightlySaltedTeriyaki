@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Jiří Černák.</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am a student studying robotics, programming and computer hardware from Czech Republic.</h3>
 
 #
